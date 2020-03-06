@@ -45,7 +45,7 @@ body {
 }
 
 .bookmark-body {
-    overflow-y: scroll;
+    overflow: auto;
     vertical-align: top;
 }
 
